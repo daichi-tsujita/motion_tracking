@@ -1,2 +1,2 @@
 "# motion_tracking" 
-がんばれ！！
+がんばる！！
